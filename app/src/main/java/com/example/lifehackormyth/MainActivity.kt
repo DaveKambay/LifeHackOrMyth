@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-// This is the first screen of your app (home/start screen)
+// This is the first screen of the app (home/start screen)
 class MainActivity : AppCompatActivity() {
 
     // This function runs when the app starts
